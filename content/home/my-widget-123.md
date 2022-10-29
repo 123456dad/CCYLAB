@@ -2,7 +2,7 @@
 widget: about
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 20
 title: About
 active: true
 design:
