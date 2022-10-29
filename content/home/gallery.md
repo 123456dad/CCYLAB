@@ -1,19 +1,14 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: markdown
-
-# This file represents a page section.
+widget_id: post 20221029
 headless: true
-
-# Order that this section appears on the page.
 weight: 66
-
 title: Gallery
-subtitle:
-
+subtitle: null
 design:
-  columns: '1'
+  columns: "1"
+  background:
+    image: sa22168163-彭若愚-智能所.jpg
 ---
 
 {{< gallery album="demo" >}}
