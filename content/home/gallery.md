@@ -2,7 +2,7 @@
 widget: markdown
 widget_id: post 20221029
 headless: true
-weight: 66
+weight: 1
 title: Gallery
 subtitle: null
 design:
