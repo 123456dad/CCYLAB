@@ -3,6 +3,7 @@ widget: gallry
 widget_id: my-widget-123
 headless: true
 weight: 0
+title: GALLRY
 active: true
 design:
   columns: "2"
