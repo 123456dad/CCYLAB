@@ -1,5 +1,5 @@
 ---
-widget: GLLAYR
+widget: gallry
 widget_id: my-widget-123
 headless: true
 weight: 0
